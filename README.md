@@ -63,7 +63,8 @@ firewall-cmd –reload
 setenforce 0
 
 ```
-### 5. 결과
+## 결과
+apache ip에서 tomcat화면이 뜨는 것을 확인
 ![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/f5a8eac3-e26c-4009-ba00-0e06d34d2136)
 
 
