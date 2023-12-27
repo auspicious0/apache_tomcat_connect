@@ -13,6 +13,7 @@
 ## Apache Tomcat 연동 단계
 
 ### 1. WAS(Tomcat)와 Web(Apache)을 설치합니다.
+![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/1c69b9bb-f8a1-46fa-90f0-6f1cee0e0e2f) ![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/56674356-2ed5-49ed-954c-f1ea3e39cb87)
 
 ### 2. Apache 설정
 
