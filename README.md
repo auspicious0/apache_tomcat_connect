@@ -65,8 +65,11 @@ setenforce 0
 ```
 ### 5. 결과
 ![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/f5a8eac3-e26c-4009-ba00-0e06d34d2136)
+
+
 apache화면
 
 
-![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/f62e5cef-3055-485a-b96b-7ce4e3fc2423)
+![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/f8387dc4-9773-4dbf-985f-44b029f19b7a)
+
 tomcat에서 만든 것
