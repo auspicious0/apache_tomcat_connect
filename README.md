@@ -13,7 +13,7 @@
 ## Apache Tomcat 연동 단계
 
 ### 1. WAS(Tomcat)와 Web(Apache)을 설치합니다.
-![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/1c69b9bb-f8a1-46fa-90f0-6f1cee0e0e2f) ![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/56674356-2ed5-49ed-954c-f1ea3e39cb87)
+![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/1c69b9bb-f8a1-46fa-90f0-6f1cee0e0e2f)  ![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/56674356-2ed5-49ed-954c-f1ea3e39cb87)
 
 ### 2. Apache 설정
 
@@ -63,4 +63,10 @@ firewall-cmd –reload
 setenforce 0
 
 ```
+### 5. 결과
+![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/f5a8eac3-e26c-4009-ba00-0e06d34d2136)
+apache화면
 
+
+![image](https://github.com/auspicious0/apache_tomcat_connect/assets/108572025/f62e5cef-3055-485a-b96b-7ce4e3fc2423)
+tomcat에서 만든 것
